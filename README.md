@@ -1,2 +1,0 @@
-# Kilobolt-Tutorial 
-# Tetris 
